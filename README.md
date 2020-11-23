@@ -1,4 +1,4 @@
-<p align='center'><h1>BANDSMAN</h1></p>
+<h1 align='center'>BANDSMAN</h1>
 <p align='center'><img src='https://github.com/pranjals149/acevent/blob/master/bandsman/Bandsman%20Logo.png?raw=true' /></p>
 
 ### Description
