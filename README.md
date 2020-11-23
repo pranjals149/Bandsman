@@ -1,6 +1,8 @@
 <h1 align='center'>BANDSMAN</h1>
 <p align='center'><img src='https://github.com/pranjals149/acevent/blob/master/bandsman/Bandsman%20Logo.png?raw=true' /></p>
 
+#### Deployed Link - https://bandsman.netlify.app
+
 ### Description
 
 Bandsman is a spotify client/clone. Once a user clicks **LOGIN TO SPOTIFY** on the home page, it takes the user to the Spotify Login page. After successfully login in, this application fetches your playlist, your discover weekly and displays them all to the screen.
