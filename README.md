@@ -17,10 +17,6 @@ Setting it up on the local system ->
 
 **By default, it will run on the port 3000. URL - http://localhost:3000/**
 
-### Working Screenshot
-
-<img src='./Bandsman.gif' />
-
 ### Dependencies used
 
 1. Material-UI

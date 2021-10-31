@@ -5,12 +5,12 @@ import { accessUrl } from "../../spotify";
 function Login() {
   return (
     <div className="login">
-        <h1>Bandsman</h1>      
-        <img
-            src="https://image.freepik.com/free-vector/happy-tiny-people-listening-spiritual-music_74855-5870.jpg"
-            alt=""
-        />
-        <a href={accessUrl}>LOGIN TO SPOTIFY</a>
+      <h1>Bandsman</h1>
+      <img
+        src="https://cdn.pixabay.com/photo/2021/10/25/14/44/confused-6741161_960_720.png"
+        alt=""
+      />
+      <a href={accessUrl}>LOGIN TO SPOTIFY</a>
     </div>
   );
 }
